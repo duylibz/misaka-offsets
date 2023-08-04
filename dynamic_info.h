@@ -5078,7 +5078,7 @@ const struct dynamic_info kern_versions[] = {
          .kernelcache__vn_kqfilter = 0xfffffff007f39b28,
      },
     
-    //16.6b1
+    //iphone 14plus,16.6b1
     {
         .kern_version = "Darwin Kernel Version 22.6.0: Tue May  9 06:18:35 PDT 2023; root:xnu-8796.140.12.502.1~12/RELEASE_ARM64_T8120",
         .fileglob__fg_ops = 0x28,
@@ -5978,7 +5978,7 @@ const struct dynamic_info kern_versions[] = {
     },
     
     
-    //16.6b1
+    //iphone 14plus, 16.6b1//
     {
         .kern_version = "Darwin Kernel Version 22.6.0: Tue May  9 06:17:58 PDT 2023; root:xnu-8796.140.12.502.1~12/RELEASE_ARM64_T8103",
         .fileglob__fg_ops = 0x28,
